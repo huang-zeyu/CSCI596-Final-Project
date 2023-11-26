@@ -2,7 +2,7 @@
 
 This is the repository for the final project of CSCI596 Scientific Computing & Visualization at USC. The project is mainly about parallelizing the Locality Sensitive Hashing (LSH) algorithm.
 
-- ==Last updated: 11.25.2023==
+- **Last updated: 11.25.2023**
 
 ## Development Plan
 
